@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPCounter", "IPCounter\IPCounter.csproj", "{C5BCE6D2-944D-49FF-9D26-1EDE557EAFEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanianNumbers", "RomanianNumbers\RomanianNumbers.csproj", "{ADB844E8-6114-46C1-A8EA-0312127FDE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BCE6D2-944D-49FF-9D26-1EDE557EAFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BCE6D2-944D-49FF-9D26-1EDE557EAFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BCE6D2-944D-49FF-9D26-1EDE557EAFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BCE6D2-944D-49FF-9D26-1EDE557EAFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB844E8-6114-46C1-A8EA-0312127FDE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB844E8-6114-46C1-A8EA-0312127FDE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB844E8-6114-46C1-A8EA-0312127FDE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB844E8-6114-46C1-A8EA-0312127FDE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9A7CB6-EF54-4777-95C0-A4E74C138B06}
+	EndGlobalSection
+EndGlobal
